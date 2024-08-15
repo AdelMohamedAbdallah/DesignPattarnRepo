@@ -4,6 +4,6 @@
     {
         public string Title => nameof(Sausage);
 
-        public decimal Price => 15m;
+        public decimal Price => 10m;
     }
 }
